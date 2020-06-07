@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/selfie-location-app/static/css/main.c6beb8e3.chunk.css",
+    "main.js": "/selfie-location-app/static/js/main.39e30e48.chunk.js",
+    "main.js.map": "/selfie-location-app/static/js/main.39e30e48.chunk.js.map",
+    "runtime-main.js": "/selfie-location-app/static/js/runtime-main.920ca2c0.js",
+    "runtime-main.js.map": "/selfie-location-app/static/js/runtime-main.920ca2c0.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/selfie-location-app/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.688ed450.chunk.js": "/selfie-location-app/static/js/2.688ed450.chunk.js",
+    "static/js/2.688ed450.chunk.js.map": "/selfie-location-app/static/js/2.688ed450.chunk.js.map",
+    "index.html": "/selfie-location-app/index.html",
+    "precache-manifest.884d2b34f15d08d81ce84f16e7c4fa0f.js": "/selfie-location-app/precache-manifest.884d2b34f15d08d81ce84f16e7c4fa0f.js",
+    "service-worker.js": "/selfie-location-app/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/selfie-location-app/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.c6beb8e3.chunk.css.map": "/selfie-location-app/static/css/main.c6beb8e3.chunk.css.map",
+    "static/js/2.688ed450.chunk.js.LICENSE.txt": "/selfie-location-app/static/js/2.688ed450.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.920ca2c0.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.688ed450.chunk.js",
+    "static/css/main.c6beb8e3.chunk.css",
+    "static/js/main.39e30e48.chunk.js"
+  ]
+}
